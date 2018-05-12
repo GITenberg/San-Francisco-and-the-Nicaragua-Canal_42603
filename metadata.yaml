@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41767'
     url: http://www.gutenberg.org/2009/agents/41767
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42603#San-Francisco-and-the-Nicaragua-Canal
 gutenberg_issued: '2013-04-27'
 gutenberg_type: Text
 identifiers:
